@@ -12,7 +12,7 @@
 
 import SwiftUI
 
-// 1
+// 1. Una vista raíz que use @StateObject para un modelo UserData.
 class UserData: ObservableObject {
     @Published var name: String = "Andrés"
     @Published var isPremium: Bool = false
@@ -54,7 +54,7 @@ struct RootView: View {
         }
     }
 
-// MARK: - 2. Subvista con ObservedObject
+// MARK: - 2. Subvista con @ObservedObject
 struct ObservedView: View {
     // La vista recibe el objeto desde otra
     @ObservedObject var userData: UserData

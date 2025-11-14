@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C1219BDB2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PropertyWrappersMiniCourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C147A1752EC6661800D24796 /* CoreDataFetchExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataFetchExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C1219BDD2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse */ = {
+		C147A1772EC6661800D24796 /* CoreDataFetchExample */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PropertyWrappersMiniCourse;
+			path = CoreDataFetchExample;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C1219BD82EC3EE2C00E7F1A8 /* Frameworks */ = {
+		C147A1722EC6661800D24796 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C1219BD22EC3EE2C00E7F1A8 = {
+		C147A16C2EC6661800D24796 = {
 			isa = PBXGroup;
 			children = (
-				C1219BDD2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse */,
-				C1219BDC2EC3EE2C00E7F1A8 /* Products */,
+				C147A1772EC6661800D24796 /* CoreDataFetchExample */,
+				C147A1762EC6661800D24796 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C1219BDC2EC3EE2C00E7F1A8 /* Products */ = {
+		C147A1762EC6661800D24796 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C1219BDB2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse.app */,
+				C147A1752EC6661800D24796 /* CoreDataFetchExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C1219BDA2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse */ = {
+		C147A1742EC6661800D24796 /* CoreDataFetchExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C1219BEA2EC3EE2D00E7F1A8 /* Build configuration list for PBXNativeTarget "PropertyWrappersMiniCourse" */;
+			buildConfigurationList = C147A1882EC6661900D24796 /* Build configuration list for PBXNativeTarget "CoreDataFetchExample" */;
 			buildPhases = (
-				C1219BD72EC3EE2C00E7F1A8 /* Sources */,
-				C1219BD82EC3EE2C00E7F1A8 /* Frameworks */,
-				C1219BD92EC3EE2C00E7F1A8 /* Resources */,
+				C147A1712EC6661800D24796 /* Sources */,
+				C147A1722EC6661800D24796 /* Frameworks */,
+				C147A1732EC6661800D24796 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C1219BDD2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse */,
+				C147A1772EC6661800D24796 /* CoreDataFetchExample */,
 			);
-			name = PropertyWrappersMiniCourse;
+			name = CoreDataFetchExample;
 			packageProductDependencies = (
 			);
-			productName = PropertyWrappersMiniCourse;
-			productReference = C1219BDB2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse.app */;
+			productName = CoreDataFetchExample;
+			productReference = C147A1752EC6661800D24796 /* CoreDataFetchExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C1219BD32EC3EE2C00E7F1A8 /* Project object */ = {
+		C147A16D2EC6661800D24796 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					C1219BDA2EC3EE2C00E7F1A8 = {
+					C147A1742EC6661800D24796 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = C1219BD62EC3EE2C00E7F1A8 /* Build configuration list for PBXProject "PropertyWrappersMiniCourse" */;
+			buildConfigurationList = C147A1702EC6661800D24796 /* Build configuration list for PBXProject "CoreDataFetchExample" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = C1219BD22EC3EE2C00E7F1A8;
+			mainGroup = C147A16C2EC6661800D24796;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C1219BDC2EC3EE2C00E7F1A8 /* Products */;
+			productRefGroup = C147A1762EC6661800D24796 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C1219BDA2EC3EE2C00E7F1A8 /* PropertyWrappersMiniCourse */,
+				C147A1742EC6661800D24796 /* CoreDataFetchExample */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C1219BD92EC3EE2C00E7F1A8 /* Resources */ = {
+		C147A1732EC6661800D24796 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C1219BD72EC3EE2C00E7F1A8 /* Sources */ = {
+		C147A1712EC6661800D24796 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		C1219BE82EC3EE2D00E7F1A8 /* Debug */ = {
+		C147A1862EC6661900D24796 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -177,16 +177,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		C1219BE92EC3EE2D00E7F1A8 /* Release */ = {
+		C147A1872EC6661900D24796 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -232,113 +234,96 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		C1219BEB2EC3EE2D00E7F1A8 /* Debug */ = {
+		C147A1892EC6661900D24796 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = PropertyWrappersMiniCourse/PropertyWrappersMiniCourse.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"PropertyWrappersMiniCourse/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CoreDataFetchExample/Preview Content\"";
 				DEVELOPMENT_TEAM = JZD5SRHVPT;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.PropertyWrappersMiniCourse;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.CoreDataFetchExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		C1219BEC2EC3EE2D00E7F1A8 /* Release */ = {
+		C147A18A2EC6661900D24796 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = PropertyWrappersMiniCourse/PropertyWrappersMiniCourse.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"PropertyWrappersMiniCourse/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CoreDataFetchExample/Preview Content\"";
 				DEVELOPMENT_TEAM = JZD5SRHVPT;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.PropertyWrappersMiniCourse;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.CoreDataFetchExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C1219BD62EC3EE2C00E7F1A8 /* Build configuration list for PBXProject "PropertyWrappersMiniCourse" */ = {
+		C147A1702EC6661800D24796 /* Build configuration list for PBXProject "CoreDataFetchExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C1219BE82EC3EE2D00E7F1A8 /* Debug */,
-				C1219BE92EC3EE2D00E7F1A8 /* Release */,
+				C147A1862EC6661900D24796 /* Debug */,
+				C147A1872EC6661900D24796 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C1219BEA2EC3EE2D00E7F1A8 /* Build configuration list for PBXNativeTarget "PropertyWrappersMiniCourse" */ = {
+		C147A1882EC6661900D24796 /* Build configuration list for PBXNativeTarget "CoreDataFetchExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C1219BEB2EC3EE2D00E7F1A8 /* Debug */,
-				C1219BEC2EC3EE2D00E7F1A8 /* Release */,
+				C147A1892EC6661900D24796 /* Debug */,
+				C147A18A2EC6661900D24796 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C1219BD32EC3EE2C00E7F1A8 /* Project object */;
+	rootObject = C147A16D2EC6661800D24796 /* Project object */;
 }
