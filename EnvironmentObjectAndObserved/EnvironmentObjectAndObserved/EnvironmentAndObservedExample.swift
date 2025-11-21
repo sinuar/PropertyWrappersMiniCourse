@@ -1,6 +1,6 @@
 //
-//  EnvironmentAndObservedExample.swift
-//  PropertyWrappersAdv
+//  ContentView.swift
+//  EnvironmentObjectAndObserved
 //
 //  Created by Sinuhe Alvarez Ruedas on 13/11/25.
 //

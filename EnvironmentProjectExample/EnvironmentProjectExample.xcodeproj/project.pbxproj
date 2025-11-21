@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C147A1962EC6696900D24796 /* PropertyWrappersAdv.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PropertyWrappersAdv.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C147A1CD2EC7B00000D24796 /* EnvironmentProjectExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnvironmentProjectExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C147A1982EC6696900D24796 /* PropertyWrappersAdv */ = {
+		C147A1CF2EC7B00000D24796 /* EnvironmentProjectExample */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PropertyWrappersAdv;
+			path = EnvironmentProjectExample;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C147A1932EC6696900D24796 /* Frameworks */ = {
+		C147A1CA2EC7B00000D24796 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C147A18D2EC6696900D24796 = {
+		C147A1C42EC7B00000D24796 = {
 			isa = PBXGroup;
 			children = (
-				C147A1982EC6696900D24796 /* PropertyWrappersAdv */,
-				C147A1972EC6696900D24796 /* Products */,
+				C147A1CF2EC7B00000D24796 /* EnvironmentProjectExample */,
+				C147A1CE2EC7B00000D24796 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C147A1972EC6696900D24796 /* Products */ = {
+		C147A1CE2EC7B00000D24796 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C147A1962EC6696900D24796 /* PropertyWrappersAdv.app */,
+				C147A1CD2EC7B00000D24796 /* EnvironmentProjectExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C147A1952EC6696900D24796 /* PropertyWrappersAdv */ = {
+		C147A1CC2EC7B00000D24796 /* EnvironmentProjectExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C147A1A42EC6696900D24796 /* Build configuration list for PBXNativeTarget "PropertyWrappersAdv" */;
+			buildConfigurationList = C147A1DB2EC7B00100D24796 /* Build configuration list for PBXNativeTarget "EnvironmentProjectExample" */;
 			buildPhases = (
-				C147A1922EC6696900D24796 /* Sources */,
-				C147A1932EC6696900D24796 /* Frameworks */,
-				C147A1942EC6696900D24796 /* Resources */,
+				C147A1C92EC7B00000D24796 /* Sources */,
+				C147A1CA2EC7B00000D24796 /* Frameworks */,
+				C147A1CB2EC7B00000D24796 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C147A1982EC6696900D24796 /* PropertyWrappersAdv */,
+				C147A1CF2EC7B00000D24796 /* EnvironmentProjectExample */,
 			);
-			name = PropertyWrappersAdv;
+			name = EnvironmentProjectExample;
 			packageProductDependencies = (
 			);
-			productName = PropertyWrappersAdv;
-			productReference = C147A1962EC6696900D24796 /* PropertyWrappersAdv.app */;
+			productName = EnvironmentProjectExample;
+			productReference = C147A1CD2EC7B00000D24796 /* EnvironmentProjectExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C147A18E2EC6696900D24796 /* Project object */ = {
+		C147A1C52EC7B00000D24796 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					C147A1952EC6696900D24796 = {
+					C147A1CC2EC7B00000D24796 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = C147A1912EC6696900D24796 /* Build configuration list for PBXProject "PropertyWrappersAdv" */;
+			buildConfigurationList = C147A1C82EC7B00000D24796 /* Build configuration list for PBXProject "EnvironmentProjectExample" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = C147A18D2EC6696900D24796;
+			mainGroup = C147A1C42EC7B00000D24796;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C147A1972EC6696900D24796 /* Products */;
+			productRefGroup = C147A1CE2EC7B00000D24796 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C147A1952EC6696900D24796 /* PropertyWrappersAdv */,
+				C147A1CC2EC7B00000D24796 /* EnvironmentProjectExample */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C147A1942EC6696900D24796 /* Resources */ = {
+		C147A1CB2EC7B00000D24796 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C147A1922EC6696900D24796 /* Sources */ = {
+		C147A1C92EC7B00000D24796 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		C147A1A22EC6696900D24796 /* Debug */ = {
+		C147A1D92EC7B00100D24796 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		C147A1A32EC6696900D24796 /* Release */ = {
+		C147A1DA2EC7B00100D24796 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,14 +244,14 @@
 			};
 			name = Release;
 		};
-		C147A1A52EC6696900D24796 /* Debug */ = {
+		C147A1DC2EC7B00100D24796 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"PropertyWrappersAdv/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"EnvironmentProjectExample/Preview Content\"";
 				DEVELOPMENT_TEAM = JZD5SRHVPT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -265,7 +265,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.PropertyWrappersAdv;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.EnvironmentProjectExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -273,14 +273,14 @@
 			};
 			name = Debug;
 		};
-		C147A1A62EC6696900D24796 /* Release */ = {
+		C147A1DD2EC7B00100D24796 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"PropertyWrappersAdv/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"EnvironmentProjectExample/Preview Content\"";
 				DEVELOPMENT_TEAM = JZD5SRHVPT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.PropertyWrappersAdv;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sinuar.EnvironmentProjectExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C147A1912EC6696900D24796 /* Build configuration list for PBXProject "PropertyWrappersAdv" */ = {
+		C147A1C82EC7B00000D24796 /* Build configuration list for PBXProject "EnvironmentProjectExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C147A1A22EC6696900D24796 /* Debug */,
-				C147A1A32EC6696900D24796 /* Release */,
+				C147A1D92EC7B00100D24796 /* Debug */,
+				C147A1DA2EC7B00100D24796 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C147A1A42EC6696900D24796 /* Build configuration list for PBXNativeTarget "PropertyWrappersAdv" */ = {
+		C147A1DB2EC7B00100D24796 /* Build configuration list for PBXNativeTarget "EnvironmentProjectExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C147A1A52EC6696900D24796 /* Debug */,
-				C147A1A62EC6696900D24796 /* Release */,
+				C147A1DC2EC7B00100D24796 /* Debug */,
+				C147A1DD2EC7B00100D24796 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C147A18E2EC6696900D24796 /* Project object */;
+	rootObject = C147A1C52EC7B00000D24796 /* Project object */;
 }
